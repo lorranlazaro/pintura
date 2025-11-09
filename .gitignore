@@ -1,0 +1,9 @@
+# Ambiente Viertual
+.venv/
+
+# Arviso VSCode
+.vscode/
+
+# Arquivos Compilados Python
+__pycache__/
+*.pyc
