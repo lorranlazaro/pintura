@@ -26,7 +26,7 @@ def pintar():
 
         if resultado:
             print(
-                f"Você precisa de {resultado} latas de tinta para poder pintar a sua medida."
+                f"Você precisa de {round(resultado, 2)} latas de tinta para poder pintar a sua medida."
             )
 
 
