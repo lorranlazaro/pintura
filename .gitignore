@@ -1,7 +1,7 @@
-# Ambiente Viertual
+# Ambiente Virtual
 .venv/
 
-# Arviso VSCode
+# Arquivos VSCode
 .vscode/
 
 # Arquivos Compilados Python
